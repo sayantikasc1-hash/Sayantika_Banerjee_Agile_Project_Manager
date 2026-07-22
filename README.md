@@ -1,4 +1,4 @@
-# Sayantika_Banerjee_Agile_Project_Manager
+# Sayantika_Banerjee_Scrum Master_Project_Manager
 My project experiences 
 # 👋 Hi, I'm Sayantika Banerjee!
 
