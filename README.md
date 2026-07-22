@@ -2,7 +2,7 @@
 My project experiences 
 # 👋 Hi, I'm Sayantika Banerjee!
 
-### 🚀 Project Manager | Agile Delivery Manager | Scrum Master | AI-Enabled Delivery Enthusiast
+### 🚀 Scrum Master|Project Manager 
 
 Welcome to my GitHub!
 
@@ -94,13 +94,7 @@ I'm actively expanding my AI skills for modern project delivery.
 
 Current focus areas:
 
-- Claude Skills
-- AI for Agile Delivery
 - GitHub Portfolio Development
-- Power BI Dashboards
-- AI-assisted Sprint Planning
-- AI-assisted Executive Reporting
-- GitHub Copilot
 - Prompt Engineering for Project Managers
 
 ---
@@ -115,7 +109,7 @@ This GitHub is where I share my learning journey and practical resources, includ
 - 📈 Executive Status Reporting
 - ⚠️ RAID Log Templates
 - 🚀 Release Readiness Checklists
-- 📚 Claude Skills for Project Managers
+  
 - 💡 AI Prompt Libraries
 - 📖 Project Management Resources
 
