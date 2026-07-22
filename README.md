@@ -6,7 +6,7 @@ My project experiences
 
 Welcome to my GitHub!
 
-I'm a Project Management professional with **7+ years of experience** leading Agile delivery, digital transformation, and enterprise software implementations across Banking, Automotive, Higher Education, and Retail industries out of a decade in IT.
+I'm a Agile Project Management professional with **7+ years of experience** leading Agile delivery, digital transformation, and enterprise software implementations across Banking, Automotive, Higher Education, and Retail industries out of a decade in IT.
 
 I enjoy bringing structure to complex projects, helping cross-functional teams deliver value, and exploring how AI can improve project delivery, planning, reporting, and collaboration.
 
